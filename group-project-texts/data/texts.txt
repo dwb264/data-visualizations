@@ -1,0 +1,297 @@
+Date	Name	Msg
+Wed Mar 22 2017 9:27:13 PM	Devon	Group text for project communication
+Wed Mar 22 2017 9:28:08 PM	Victor	Thx. I'm Victor.
+Thu Mar 23 2017 4:12:29 PM	Devon	Looks like Klarman atrium is set up for an event of some kind. We may need to meet somewhere else
+Thu Mar 23 2017 4:13:54 PM	Samantha	Psb?
+Thu Mar 23 2017 4:14:44 PM	Devon	That works
+Thu Mar 23 2017 4:20:30 PM	Victor	Where is psb?
+Thu Mar 23 2017 4:21:14 PM	Samantha	Physical sciences building! It's the futuristic looking building next to baker, across the street from klarman
+Thu Mar 23 2017 4:21:36 PM	Victor	Gates?
+Thu Mar 23 2017 4:21:53 PM	Victor	Oh
+Thu Mar 23 2017 4:22:40 PM	Victor	K. I'm coming now. I'm coming from the commons so I might be a bit late.
+Thu Mar 23 2017 4:23:47 PM	Devon	Whenever you guys are ready I'm here now, on the first floor sitting at a table, wearing a red jacket
+Thu Mar 23 2017 4:43:37 PM	Samantha	I'm here
+Thu Mar 23 2017 4:44:02 PM	Samantha	Have no idea what you look like lol
+Thu Mar 23 2017 4:44:13 PM	Devon	Red jacket, by wall 
+Thu Mar 23 2017 4:44:19 PM	Devon	You may have walked past me
+Thu Mar 23 2017 4:44:35 PM	Samantha	In atrium?
+Thu Mar 23 2017 4:44:49 PM	Devon	Just up the stairs
+Sun Mar 26 2017 8:18:12 PM	Devon	Hi guys, I added some dataset ideas in the p2s1 doc in our Drive folder. It would be great if you could add some too. When we get up to 6 ideas I can go ahead and submit everything on CMS.
+Sun Mar 26 2017 8:36:37 PM	Samantha	Alright! I will add some in a little bit (hopefully by 10)
+Sun Mar 26 2017 8:37:32 PM	Devon	Awesome thanks!
+Sun Mar 26 2017 9:16:04 PM	Samantha	Added a couple!
+Mon Mar 27 2017 9:10:32 AM	Devon	Victor: I transferred one of your ideas to the p2s1 doc. Submitted that along with the contract on CMS. Can resubmit later if anyone wants to make any changes.
+Mon Mar 27 2017 9:12:28 AM	Victor	 Sounds good!
+Mon Mar 27 2017 12:00:25 PM	Devon	Hey team I'm in the upper right if you want to meet rn
+Mon Mar 27 2017 12:01:40 PM	Victor	I kind of skipped class today to work on an essay lol
+Mon Mar 27 2017 12:01:55 PM	Victor	I thought we were meeting Thursday? I can meet after class on Wednesday.
+Mon Mar 27 2017 12:02:05 PM	Devon	He gave us 5min at the end to meet
+Mon Mar 27 2017 12:04:04 PM	Devon	We are still meeting Thursday 4:45
+Mon Mar 27 2017 12:05:18 PM	Victor	Oh okay! Sorry :(
+Mon Mar 27 2017 12:06:53 PM	Victor	You can give me call if y'all are discussing anything
+Mon Mar 27 2017 12:07:40 PM	Devon	No problem. Sam and I thought we should decide which project idea we want to go with today. We can discuss in comments on the p2s1 Google doc
+Mon Mar 27 2017 12:11:52 PM	Victor	I think our project needs to integrate two data sets btw
+Mon Mar 27 2017 12:18:58 PM	Victor	I was interested in the work of a Richard Florida theory of diversity (specifically using LGBT presence) as an indicator/predictor of high-tech industry—but I couldn't really find substantial datasets of LGBT demographics. But I think it'd be interesting if we worked on an interactive map that shows regional growth in correlation with measures of diversity over time.
+Mon Mar 27 2017 12:20:25 PM	Devon	That sounds really cool
+Mon Mar 27 2017 4:44:23 PM	Devon	I wrote some initial thoughts on each of the 6 ideas. Feel free to follow up or add more ideas
+Mon Mar 27 2017 7:47:37 PM	Samantha	I will add some thoughts soon
+Mon Mar 27 2017 7:50:26 PM	Devon	Sounds good. I really like the king county house dataset you found btw 
+Tue Mar 28 2017 10:23:35 AM	Devon	Sam, any comments to add on the ideas? It would be good if we could decide on one soon
+Tue Mar 28 2017 10:30:55 AM	Samantha	Hi! Yes sorry, 3410 prelim today so have been off the radar. Will look at them now
+Tue Mar 28 2017 10:31:23 AM	Devon	Ok no worries
+Tue Mar 28 2017 10:31:31 AM	Victor	No worries! I like the music one.
+Tue Mar 28 2017 10:33:52 AM	Samantha	oh noooooo Devon I accidentally deleted your first comment
+Tue Mar 28 2017 10:33:56 AM	Samantha	apparently thats what the resolve button does
+Tue Mar 28 2017 10:34:25 AM	Devon	It's back now
+Tue Mar 28 2017 10:34:36 AM	Samantha	hahaha oh you just reopen it
+Tue Mar 28 2017 10:34:42 AM	Devon	Yep
+Tue Mar 28 2017 10:46:14 AM	Samantha	I guess we could talk about this over text rather than over google doc comments haha.  But I really like the music data.  Would it be an issue that every song is in a separate file?
+Tue Mar 28 2017 10:48:31 AM	Devon	I thought it could be downloaded as a database...but yeah separate files could be an issue
+Tue Mar 28 2017 10:49:10 AM	Samantha	I'm not positive, I just looked under faq and that's what it sounded like
+Tue Mar 28 2017 10:50:34 AM	Samantha	[IMG_3179.png]
+Tue Mar 28 2017 10:50:42 AM	Samantha	We could always download the sample set and see what it looks like
+Tue Mar 28 2017 10:51:24 AM	Devon	Ok it looks like the subset is a database, but the full dataset is individual files
+Tue Mar 28 2017 10:53:18 AM	Devon	It would probably be possible to write code to get the entire thing into a database so it would be easily searchable 
+Tue Mar 28 2017 10:54:59 AM	Samantha	Alright, We just have to consider how much time we want to put into setting data up. This does have really cool potential though
+Tue Mar 28 2017 10:56:14 AM	Devon	True. It might take too long to be practical. 
+Tue Mar 28 2017 10:57:23 AM	Devon	I could work on it over break, since I will have nothing better to do haha
+Tue Mar 28 2017 10:58:37 AM	Samantha	Lol I don't really want to dump all of that on you. Plus, if it doesn't work, we would come back from break starting at square one. 
+Tue Mar 28 2017 11:00:17 AM	Devon	Ok. I also like the house idea as another option
+Tue Mar 28 2017 11:01:08 AM	Samantha	Me too. But also don't want to kill the music idea if we are passionate about it. Vincent what do you think??
+Tue Mar 28 2017 11:06:06 AM	Devon	I actually found some scripts that can turn the raw music files from hdf5 to csv format. Could be helpful. Will post link in doc
+Tue Mar 28 2017 11:13:27 AM	Victor	I'm in class right now, I will take a look at the data set again when class is over in an hour!
+Tue Mar 28 2017 11:13:47 AM	Victor	I'm not that attached—I just thought it sounded fun.
+Tue Mar 28 2017 11:16:15 AM	Devon	Ok. Based on what I've found it will definitely be possible to get the music data into a manageable format, so that's not an obstacle
+Tue Mar 28 2017 11:21:43 AM	Samantha	Alright if you think it's possible then I'm comfortable using that set 
+Tue Mar 28 2017 12:34:10 PM	Devon	a big problem with the pitchfork data set: it only lists album reviews, no individual track reviews. That makes it hard to compare directly with the million song dataset.
+Tue Mar 28 2017 12:35:23 PM	Samantha	Hmmm we could do something interactive where you "open" an album and look at the songs within it
+Tue Mar 28 2017 12:36:08 PM	Devon	That could work
+Tue Mar 28 2017 12:36:15 PM	Victor	Yeah! Or like focus on the singles from the album
+Tue Mar 28 2017 12:36:19 PM	Samantha	Although I guess the point of putting the sets together is to compare an analysis of the song with actual reviews 
+Tue Mar 28 2017 12:39:08 PM	Samantha	We could average things about the songs in an album to create a model of what the ratings should be to tie it together
+Tue Mar 28 2017 12:39:18 PM	Samantha	Idk I think we would just need to draw things out to visualize how it fits together
+Tue Mar 28 2017 12:49:21 PM	Victor	We could also visualize the the album by the progression of like danceability, loudness, tempo...? I was thinking a line chart, if that makes sense? 
+Tue Mar 28 2017 12:52:04 PM	Devon	That would work, but only if all the song data is there for a given album
+Tue Mar 28 2017 12:52:57 PM	Victor	I unno I don't know how informative that'd be
+Tue Mar 28 2017 12:53:03 PM	Devon	I was hoping to do some kind of multivariate model that uses song features to predict its score
+Tue Mar 28 2017 12:53:07 PM	Victor	Didn't send earlier^
+Tue Mar 28 2017 12:54:39 PM	Samantha	^thats what I was thinking
+Tue Mar 28 2017 12:55:08 PM	Devon	But doesn't look like that will be possible. We could always scrape the track reviews from pitchfork ourselves
+Tue Mar 28 2017 12:55:34 PM	Victor	That sounds cool!
+Tue Mar 28 2017 12:55:59 PM	Samantha	Oh I was thinking we could do a model with song features to predict album score
+Tue Mar 28 2017 12:56:38 PM	Samantha	But that would be messy bc too many variables would be overlooked probably
+Tue Mar 28 2017 12:57:07 PM	Devon	Yeah and tracks could be varied within an album
+Tue Mar 28 2017 12:58:32 PM	Samantha	We could look at albums that are singles
+Tue Mar 28 2017 1:02:34 PM	Devon	How to find which ones are singles easily though...
+Tue Mar 28 2017 1:03:11 PM	Samantha	Truueee
+Tue Mar 28 2017 1:04:27 PM	Devon	I will try to find if the code used to scrape the albums is available
+Tue Mar 28 2017 1:05:10 PM	Devon	Could be modified to scrape tracks
+Tue Mar 28 2017 1:05:43 PM	Samantha	Alright but if it looks like too much effort we should change course
+Tue Mar 28 2017 1:07:16 PM	Devon	Found it!
+Tue Mar 28 2017 1:07:21 PM	Devon	That was easy
+Tue Mar 28 2017 1:08:23 PM	Devon	Added link to doc.
+Tue Mar 28 2017 1:10:11 PM	Victor	Kind of a side thought: we could also test the theory of sophomore slump lol
+Tue Mar 28 2017 1:11:48 PM	Samantha	Is that when sophomores are dying and give up
+Tue Mar 28 2017 1:11:51 PM	Samantha	Because same
+Tue Mar 28 2017 1:13:05 PM	Devon	Haha
+Tue Mar 28 2017 1:13:26 PM	Victor	Yeah hahaha
+Tue Mar 28 2017 1:13:51 PM	Victor	It's simplistic, just sophomore albums tend to be less well received 
+Tue Mar 28 2017 1:14:01 PM	Victor	But that's pretty simplistic 
+Tue Mar 28 2017 1:16:47 PM	Devon	I have class now but will be available to talk more after 4:30
+Tue Mar 28 2017 5:26:24 PM	Devon	Can't get the track scraping to work - seems like it will be too much effort
+Tue Mar 28 2017 9:21:40 PM	Samantha	We should do something different then
+Tue Mar 28 2017 9:32:48 PM	Devon	Like I said earlier, I really like the house idea. The data is already nicely formatted and could work for a multivariate prediction model and/or maps/other interesting stuff
+Wed Mar 29 2017 3:15:01 PM	Devon	I'll make sketches for a few different ideas and we can decide tomorrow. How does that sound?
+Wed Mar 29 2017 5:37:32 PM	Samantha	Sounds good! And then we will all submit sketches for status report?
+Wed Mar 29 2017 5:42:58 PM	Devon	Yes. From what they said on piazza, we submit as a group and the storyboards do not all have to be about the same dataset
+Wed Mar 29 2017 11:23:46 PM	Victor	Sounds good to me!
+Thu Mar 30 2017 12:26:47 PM	Victor	What time and where are we meeting today?
+Thu Mar 30 2017 12:27:23 PM	Samantha	4:45, does psb still work?
+Thu Mar 30 2017 12:27:36 PM	Devon	Works for me
+Thu Mar 30 2017 12:28:14 PM	Victor	Sounds good. See ya'll then!
+Thu Mar 30 2017 4:37:26 PM	Devon	I'm in psb near where we were last time, at a table by the window. Join me whenever you're ready
+Thu Mar 30 2017 4:38:57 PM	Samantha	Sweet I'm almost there
+Fri Mar 31 2017 1:30:22 PM	Devon	P2s2 submitted!
+Sat Apr 1 2017 1:31:22 AM	Victor	Yay! Have a good break everyone!
+Thu Apr 6 2017 4:35:00 PM	Victor	Hey, how far along are you? Is there anything you need me to help with before the end of break?
+Thu Apr 6 2017 4:46:37 PM	Devon	Haven't done anything yet. I'm planning have something done by this weekend. Thanks for checking in!
+Thu Apr 6 2017 4:59:36 PM	Victor	No problem. I just want to make sure. Let me know when you get started, maybe we can talk chat really quick so I can get a sense of what I can contribute to!
+Thu Apr 6 2017 5:18:14 PM	Devon	Ok I was planning to make a basic page layout based on the sketches, with the interactive elements (sliders etc) in place but not functional yet. You could then add code to parse the datasets and integrate the data with the visuals. I'll be available tomorrow to talk if you want to discuss details.
+Thu Apr 6 2017 5:54:13 PM	Victor	Okay, we'll discuss tomorrow
+Fri Apr 7 2017 4:53:47 PM	Devon	Available to talk anytime. I added a basic page layout last night - would like to hear your thoughts before adding to it further
+Mon Apr 10 2017 12:06:37 PM	Victor	Hey, it looks really good! 
+Mon Apr 10 2017 12:06:37 PM	Samantha	Meeting after class right?
+Mon Apr 10 2017 12:06:47 PM	Devon	Yes
+Mon Apr 10 2017 12:07:22 PM	Devon	I'm right outside the door
+Mon Apr 10 2017 12:09:58 PM	Victor	Talked to Devon yesterday, yeah we are!
+Mon Apr 10 2017 1:00:55 PM	Victor	I just your texts lol sorry but I found y'all anyways
+Thu Apr 13 2017 12:09:10 PM	Victor	Hey Devon, did you still want to meet today if it's just the two of us? We can meet up and do work side by side. Or we can meet tomorrow? 
+Thu Apr 13 2017 12:09:10 PM	Victor	And if you do want to meet today, do you want to meet in the commons?
+Thu Apr 13 2017 12:15:23 PM	Devon	Yeah I think it would be good if we met today and got some work done. On campus would actually be more convenient for me if that's OK with you
+Thu Apr 13 2017 12:16:56 PM	Victor	Yeah that's fine 
+Thu Apr 13 2017 12:17:14 PM	Victor	Want to do Klarman?
+Thu Apr 13 2017 12:17:20 PM	Devon	Sure
+Thu Apr 13 2017 12:18:06 PM	Victor	K see you at Klarman at 4:30 or 5 ish?
+Thu Apr 13 2017 12:18:22 PM	Victor	And yay we got an extension for the project'
+Thu Apr 13 2017 12:18:25 PM	Victor	!
+Thu Apr 13 2017 12:18:47 PM	Devon	Yep 4:30 sounds good. See you then 
+Thu Apr 13 2017 4:30:45 PM	Devon	I'm in Klarman at a table whenever you're ready 
+Thu Apr 13 2017 9:24:31 PM	Victor	Good luck on your prelim!
+Thu Apr 13 2017 9:24:45 PM	Victor	Unless you've already taken it, then I hope you did well!
+Thu Apr 13 2017 9:25:10 PM	Samantha	Haha I just finished! thank you! 
+Thu Apr 13 2017 9:25:37 PM	Victor	👏👏👏
+Thu Apr 13 2017 9:26:53 PM	Victor	For my part, would I just find the mean housing sale price for each zip code, or is there something statistically more interesting I should do?
+Thu Apr 13 2017 9:51:45 PM	Devon	I think just mean and/or median would be fine. You could maybe also look at the distribution of prices within a zip code - how much variation there is
+Thu Apr 13 2017 9:53:17 PM	Devon	Maybe display additional info on hover
+Thu Apr 13 2017 10:18:32 PM	Victor	Ok, sound good!
+Fri Apr 14 2017 12:34:12 PM	Devon	Sam, anything you want to add to your part of the p2s3 doc? If not, I will submit
+Fri Apr 14 2017 12:34:49 PM	Samantha	I'll take a look after class! 
+Fri Apr 14 2017 12:35:48 PM	Devon	Ok
+Fri Apr 14 2017 12:36:52 PM	Samantha	Also I'm doing the histogram tonight so it will be ready by the meeting tomorrow. What time do we want to meet?
+Fri Apr 14 2017 12:38:56 PM	Devon	Noon was the plan right?
+Fri Apr 14 2017 12:41:31 PM	Samantha	okay i think i missed that srry. It it possible to push to 10am or maybe 2pm?  I have something at noon but i might be able to miss it if needed
+Fri Apr 14 2017 12:41:58 PM	Samantha	or probably even 11 would work if we’re only planning on meeting for an hour.  I’m not sure how long we want to see
+Fri Apr 14 2017 12:41:59 PM	Samantha	*meet
+Fri Apr 14 2017 12:42:07 PM	Devon	2pm would be great
+Fri Apr 14 2017 12:42:42 PM	Samantha	okay! if that works for Vincent, we can meet then
+Fri Apr 14 2017 12:43:23 PM	Devon	I can also do 10-11 if needed, but prefer 2
+Fri Apr 14 2017 3:32:41 PM	Samantha	thank you for putting it together
+Fri Apr 14 2017 3:32:53 PM	Samantha	I added a couple things to the progress report, so i think it’s good now!
+Fri Apr 14 2017 3:33:33 PM	Devon	Ok great, I'll turn it in
+Fri Apr 14 2017 10:21:00 PM	Samantha	okay I made a histogram.  It’s pretty simple and boring so let’s talk tomorrow and I can add some interactivity/interesting things to it
+Fri Apr 14 2017 10:28:09 PM	Devon	Looks good!
+Fri Apr 14 2017 10:31:06 PM	Samantha	hahahaha @victor i definitely called you vincent earlier
+Fri Apr 14 2017 10:31:15 PM	Samantha	getting so much sleep!!
+Sat Apr 15 2017 9:04:58 AM	Devon	Victor, can you confirm if 2pm works for you for the meeting today?
+Sat Apr 15 2017 9:43:13 AM	Victor	Yeah, works for me!
+Sat Apr 15 2017 10:17:55 AM	Devon	Great, meet in Klarman again?
+Sat Apr 15 2017 10:35:25 AM	Samantha	Hahaha sorry for being all over the place. Can we push to 3pm? My project team is preparing for competition so they told us to plan on being in the lab for a few hours. 
+Sat Apr 15 2017 10:38:12 AM	Devon	I can't do 3pm unfortunately - I have another meeting then. Should we just push this to tomorrow?
+Sat Apr 15 2017 10:38:17 AM	Samantha	I totally understand if that's not possible, I'm sorry for flip flopping on times. I can probably cut out of the project team meeting early if needed. But thank you guys for being flexible with me!
+Sat Apr 15 2017 10:39:13 AM	Samantha	No worries! I will leave the project team meeting early
+Sat Apr 15 2017 10:39:28 AM	Samantha	I think they will survive with 2 hours of my time
+Sat Apr 15 2017 10:39:59 AM	Devon	Ok great, so 2pm today still?
+Sat Apr 15 2017 10:45:14 AM	Samantha	That should work!
+Sat Apr 15 2017 10:45:47 AM	Devon	Great, thanks!
+Sat Apr 15 2017 11:31:22 AM	Victor	I'm fine with anything! See y'all at 2.
+Sat Apr 15 2017 1:49:53 PM	Samantha	Omw from duffield, I assume we're meeting at klarman? See you guys soon!
+Sat Apr 15 2017 1:53:02 PM	Devon	Yep I just got to klarman
+Sat Apr 15 2017 2:06:50 PM	Victor	I'm here a bit early in KG24
+Sat Apr 15 2017 9:14:30 PM	Victor	This maps is totes cute <3 I'm trying to see what kind of data I can find and fill it in 513998021.jpg]
+Sat Apr 15 2017 9:14:37 PM	Victor	If y'all have ideas, let me know!
+Sat Apr 15 2017 9:14:59 PM	Samantha	omg i love it
+Sat Apr 15 2017 9:15:02 PM	Victor	I'm implementing median age right now
+Sat Apr 15 2017 9:15:05 PM	Samantha	its beautiful
+Sat Apr 15 2017 9:15:18 PM	Devon	Looks awesome!
+Sat Apr 15 2017 9:15:36 PM	Victor	You're all beautiful!!! Don't let anyone every tell you otherwise!!!
+Sat Apr 15 2017 9:23:58 PM	Devon	2010 census data has very comprehensive info about housing and demographics for each zip code
+Sat Apr 15 2017 9:24:14 PM	Devon	I found a file, will upload it to drive
+Sat Apr 15 2017 9:29:13 PM	Victor	Oh cool thanks!
+Sun Apr 16 2017 2:29:33 AM	Victor	I just shared with y'all what I have on my own repository. I'll add my stuff to the project repository after I clean up my code, etc.
+Tue Apr 18 2017 2:01:35 PM	Samantha	so i added interactivity to my graph.  I need to clean up the code and add labels and stuff but if you guys could give feedback/if you think theres any way to make it more interactive, please let me know!
+Tue Apr 18 2017 2:40:21 PM	Devon	I like it. I don't think it needs to be more interactive than it already is. The colors will need to be adjusted but we can do that later. Pls let me know when it's done so I can put it into the new layout
+Tue Apr 18 2017 2:43:31 PM	Samantha	Okay! I will finish it up right now
+Tue Apr 18 2017 4:16:58 PM	Samantha	Finished and pushed! I can help make it pretty tomorrow
+Tue Apr 18 2017 4:27:35 PM	Samantha	is there anything i can do tonight to help tie things together?
+Tue Apr 18 2017 4:44:48 PM	Devon	Thanks! It would be really helpful if you could work on the write-up
+Tue Apr 18 2017 5:17:38 PM	Samantha	Okay I will try to finish as much as possible tonight. Something just came up and I will be busy 4-5 tomorrow. Is there any way we can meet a little earlier?
+Tue Apr 18 2017 5:25:04 PM	Samantha	Or I could also swing by at 5
+Tue Apr 18 2017 5:25:15 PM	Devon	I'm free all afternoon so anytime is fine
+Tue Apr 18 2017 5:25:51 PM	Victor	We can also meet Thursday? Early!!!
+Tue Apr 18 2017 5:26:34 PM	Victor	I can do early morning tomorrow
+Tue Apr 18 2017 5:26:37 PM	Victor	Before class?
+Tue Apr 18 2017 5:26:53 PM	Samantha	I can do before class!
+Tue Apr 18 2017 5:26:56 PM	Devon	Before 10 tomorrow would work
+Tue Apr 18 2017 5:27:36 PM	Devon	I have class at 10:10
+Tue Apr 18 2017 5:31:33 PM	Samantha	I mean we could also determine what needs to be done right now, delegate, and then meet quickly on Thursday to clean up the edges 
+Tue Apr 18 2017 5:37:46 PM	Devon	All that really needs to be done is add the US histogram and Victor's map to the new layout, finish the write-up and clean up the code
+Tue Apr 18 2017 5:39:07 PM	Devon	And replace the placeholder images/text
+Wed Apr 19 2017 11:38:52 AM	Samantha	Friends where did you go
+Wed Apr 19 2017 11:40:13 AM	Devon	I'm up front
+Wed Apr 19 2017 12:07:46 PM	Devon	Victor, what times are you available to meet tomorrow? I am free before 1:25 and Sam is free 12-1
+Wed Apr 19 2017 12:21:29 PM	Victor	Yes! Perfect
+Wed Apr 19 2017 12:22:18 PM	Devon	Great, 12pm tomorrow then?
+Wed Apr 19 2017 12:32:52 PM	Samantha	works for me! Does duffield work? and Victor	 can you add your code to the layout?
+Wed Apr 19 2017 12:34:20 PM	Devon	Or just push the map to the other repository and I can add it to the layout
+Wed Apr 19 2017 2:00:00 PM	Victor	Yes! I have to fix some bugs first, but do this evening.
+Wed Apr 19 2017 2:00:06 PM	Victor	Will*
+Wed Apr 19 2017 9:23:08 PM	Devon	Victor, can you please give an estimate of when you expect to finish the map?
+Wed Apr 19 2017 9:53:21 PM	Devon	If you need help debugging, I can help. I would strongly prefer not to be scrambling to finish code tomorrow.
+Wed Apr 19 2017 10:32:30 PM	Devon	Also I have no idea what your code looks like, and it will take time to style it to be consistent with the rest of the project.
+Wed Apr 19 2017 10:58:06 PM	Victor	Like half an hour? I moved my code over but the hovering tool top tip isn't appearing.
+Wed Apr 19 2017 10:58:59 PM	Devon	I don't see your code in either repository
+Wed Apr 19 2017 11:06:59 PM	Victor	Hmm if I push it will anything happen?
+Wed Apr 19 2017 11:07:44 PM	Devon	Yes you need to push in order for it to show up. Make sure you've pulled first
+Wed Apr 19 2017 11:08:32 PM	Devon	(Pull if you are adding it to the existing layout, anyway)
+Wed Apr 19 2017 11:13:46 PM	Victor	I've pulled but it keeps giving me that error
+Wed Apr 19 2017 11:13:51 PM	Victor	514350767.jpg]
+Wed Apr 19 2017 11:15:40 PM	Devon	Google "Bitbucket authentication failed". In the meantime please put the code in the Drive folder or email it to me in a zip file
+Wed Apr 19 2017 11:20:14 PM	Devon	It looks like other people have had this problem and the first stack overflow link may be helpful
+Wed Apr 19 2017 11:24:38 PM	Victor	Just uploaded it!
+Wed Apr 19 2017 11:25:08 PM	Devon	Thanks, much appreciated 
+Wed Apr 19 2017 11:25:09 PM	Victor	To drive*
+Wed Apr 19 2017 11:25:31 PM	Devon	I see it. Working on it now...
+Wed Apr 19 2017 11:28:25 PM	Devon	Fyi the arts entertainment and recreation file is bigger than the entire allowed size of our project
+Wed Apr 19 2017 11:28:30 PM	Victor	Oh I also added a pattern to the house lol but it's okay not that important 
+Wed Apr 19 2017 11:29:33 PM	Devon	Ok. I'll integrate your stuff into the layout now
+Wed Apr 19 2017 11:33:47 PM	Victor	Oh. Sorry! Let me see if I can just extract the lines we need from that large file.
+Wed Apr 19 2017 11:33:53 PM	Victor	Just*
+Wed Apr 19 2017 11:34:15 PM	Devon	I'm already working on that no worries
+Wed Apr 19 2017 11:35:21 PM	Devon	School district boundaries geojson seems to be missing
+Wed Apr 19 2017 11:37:34 PM	Devon	Can you put it in drive? Not having it breaks the whole thing
+Wed Apr 19 2017 11:38:38 PM	Victor	Sorry! I think you could omit that. I was working on that earlier but I couldn't filter the property points to the school boundaries. As of right not, I don't think that map adds much to our project.
+Wed Apr 19 2017 11:39:03 PM	Devon	Ok that works
+Wed Apr 19 2017 11:39:08 PM	Victor	To find the average home value*
+Wed Apr 19 2017 11:39:52 PM	Victor	It was weird, it worked with the zip code but not the school boundaries. I was sad.
+Wed Apr 19 2017 11:40:20 PM	Devon	Hmm
+Wed Apr 19 2017 11:40:54 PM	Victor	Yeah, if we keep it, it's just show a map of school district boundaries and rating but no relationship to housing values.
+Wed Apr 19 2017 11:41:44 PM	Victor	Yeah, I tried with d3.polygonContaind()
+Wed Apr 19 2017 11:42:11 PM	Devon	Map currently not showing up at all
+Wed Apr 19 2017 11:42:17 PM	Devon	Working on it
+Wed Apr 19 2017 11:45:41 PM	Devon	Ok now it's working but I see what you mean with the tooltip
+Wed Apr 19 2017 11:45:52 PM	Victor	Are on campus by any chance? I can help you. Oh the tooltip wasn't working when I sent you the code. I'm working on that now. 
+Wed Apr 19 2017 11:46:37 PM	Victor	It's updating the text and CSS though so I'm not sure what's wrong.
+Wed Apr 19 2017 11:47:00 PM	Devon	I think I will be able to fix this. I am not on campus
+Wed Apr 19 2017 11:48:25 PM	Victor	Maybe it's a z-index issue
+Wed Apr 19 2017 11:55:37 PM	Devon	I'm pretty sure it has to do with how the styling is being applied to the tooltip
+Wed Apr 19 2017 11:56:42 PM	Devon	Taking away position:absolute seemed to be an improvement 
+Wed Apr 19 2017 11:58:10 PM	Victor	It shows up when it's outside of your layout/style sheet, so maybe it's interacting with another element's styling? Or maybe the positioning needs to be recalculated?
+Wed Apr 19 2017 11:58:12 PM	Devon	This is what's happening now image000000.jpg]
+Thu Apr 20 2017 12:00:04 AM	Victor	It needs that absolute positioning to follow the mouse
+Thu Apr 20 2017 12:00:22 AM	Devon	Ok
+Thu Apr 20 2017 12:09:52 AM	Devon	Not really making any progress. What makes this confounding is how it's using css properties instead of svg like our other hover elements 
+Thu Apr 20 2017 12:14:36 AM	Devon	Oh well. I pushed what I have to a branch called map-version. If you can fix it  let me know. At this point I honestly think we might be better off without the map
+Thu Apr 20 2017 12:14:48 AM	Victor	I'll be home in like 15 minutes, and I'll try to take a look again. Thanks Devon.
+Thu Apr 20 2017 12:15:13 AM	Devon	Ok thanks
+Thu Apr 20 2017 12:24:18 AM	Victor	Haha, hopefully not 🤞
+Thu Apr 20 2017 12:24:39 AM	Victor	Almost home, I'll check it out
+Thu Apr 20 2017 12:25:53 AM	Devon	It could always be a nice standalone portfolio piece for you :)
+Thu Apr 20 2017 1:15:13 AM	Victor	I figured it out!
+Thu Apr 20 2017 1:15:43 AM	Devon	Good!
+Thu Apr 20 2017 1:15:52 AM	Victor	It's cause the fullscreen class position is relative so the top and left of the tooltip is offset relative to its parent
+Thu Apr 20 2017 1:16:56 AM	Victor	Do you mind if I change it tomorrow—I'm really awful with this bitbucket stuff lol
+Thu Apr 20 2017 1:17:06 AM	Devon	No problem
+Thu Apr 20 2017 1:18:07 AM	Devon	Can you also please add to the write-up a description of your datasets and mappings of data to visual elements 
+Thu Apr 20 2017 1:18:30 AM	Victor	 I just moved it outside of its parent div (it's not nice but it works for now)
+Thu Apr 20 2017 1:18:37 AM	Victor	Yes, was just about to do that!
+Thu Apr 20 2017 1:18:56 AM	Devon	Ok great. See you tomorrow
+Thu Apr 20 2017 1:20:34 AM	Victor	Night!
+Thu Apr 20 2017 1:20:46 AM	Victor	Sorry for the troubles!
+Thu Apr 20 2017 1:21:28 AM	Devon	I'm glad we solved them
+Thu Apr 20 2017 1:47:05 AM	Victor	Oh, I just noticed sam's line doesn't move 
+Thu Apr 20 2017 1:47:38 AM	Victor	Oh jk lol sorry it's the scale lol
+Thu Apr 20 2017 11:02:11 AM	Victor	I'll be in Duffield early! (We're meeting there right?) I'll just need to step out for a 15 minute call at 11:50AM. 
+Thu Apr 20 2017 11:02:47 AM	Samantha	Sounds good! Yeah duffield would be good for me if it works for you guys
+Thu Apr 20 2017 11:03:18 AM	Devon	Yes. Meeting at noon but I can be there in 1/2 hr if needed
+Thu Apr 20 2017 11:14:13 AM	Victor	Yeah I'm still in class. I won't be there until 11:30. I'll just be pushing the tooltip fix. You can come earlier of you want. 
+Thu Apr 20 2017 11:27:38 AM	Devon	Just arrived at duffield
+Thu Apr 20 2017 11:29:07 AM	Devon	There are zero free tables 
+Thu Apr 20 2017 11:30:06 AM	Victor	Just got out of class at statler—walking over now! 
+Thu Apr 20 2017 11:31:00 AM	Devon	Maybe Statler lounge would be a better place to meet
+Thu Apr 20 2017 11:31:57 AM	Victor	Oh okay I can grab a table 
+Thu Apr 20 2017 11:48:07 AM	Samantha	Wait are we doing statler instead
+Thu Apr 20 2017 11:48:10 AM	Samantha	I'm in duff
+Thu Apr 20 2017 11:48:49 AM	Devon	We are in statler
+Thu Apr 20 2017 11:49:18 AM	Samantha	Okay I'm grabbing a sandwich bc this is my lunch break too
+Thu Apr 20 2017 11:49:22 AM	Samantha	I'll be over soon
+Thu Apr 20 2017 11:49:47 AM	Devon	Ok no rush

@@ -1,0 +1,110 @@
+html, body {
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+svg {
+	border: 0px solid #000;
+	overflow: visible;
+	float: left;
+}
+
+#nav {
+	text-align: center;
+	padding: 10px 0;
+}
+
+#controls {
+	padding: 20px 10px;
+	border-bottom: 1px solid #d8d8d8;
+	border-top: 1px solid #d8d8d8;
+	overflow: hidden;
+}
+
+#name {
+	font-size: 24px;
+	padding: 5px;
+	width: 300px;
+}
+
+#message {
+	display: block;
+	position: absolute;
+	font-size: 12px;
+}
+
+#sex, #selectYear {
+	display: inline-block;
+	padding: 5px;
+}
+
+#selectYear {
+	margin-top: 10px;
+}
+
+#selectYear input {
+	width: 300px;
+}
+
+#selectYear span {
+	background-color: #d8d8d8;
+	padding: 5px;
+}
+
+#map, #chart {
+	float: left;
+	padding: 10px;
+}
+
+.title {
+	text-align: center;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1240px;
+	display: block;
+	overflow: hidden;
+}
+
+#notes {
+	padding: 20px;
+	border-top: 1px solid #d8d8d8;
+	border-bottom: 1px solid #d8d8d8;
+}
+
+#namefacts {
+	margin-top: 20px;
+}
+
+#namefacts div {
+	float: left;
+	width: 350px;
+	margin-right: 50px;
+	font-size: 14px;
+}
+
+#names {
+	visibility: hidden;
+	z-index: 9999;
+	width: 292px;
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    max-height: 80%;
+    overflow-y: auto;
+    border-left: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+    border-right: 1px solid #d8d8d8;
+}
+
+.name-option:hover {
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#showHideNames {
+	color: blue;
+	cursor: pointer;
+}
